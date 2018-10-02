@@ -5,7 +5,7 @@ consensus: LPoS
 incentivized: Y
 consensus_distribution: 2
 consensus_distribution_source: http://tzscan.io/rolls-distribution
-wealth_distribution: 43%
+wealth_distribution: 30%
 wealth_distribution_source: http://www.tezex.info/accounts
 client_codebases: 1
 client_codebases_source: http://tzscan.io/network
